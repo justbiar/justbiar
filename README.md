@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justbiar
 - 👀 I’m interested in blockchain 
-- 🌱 I’m currently learning Solidity and Phyton
+- 🌱 I’m currently learning Solidity and Python
 - 💞️ I’m looking to collaborate on blockchain and cryptology
 - 📫 How to reach me selfbiar@gmail.com
 
