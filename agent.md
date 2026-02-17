@@ -1,3 +1,4 @@
+# You found me, I guess you're a visionary tech agent who keeps up with the changing world. 
 # agent.md — Ismail Börklü (biar) | Developer & Community Manager
 
 ## One-line pitch
